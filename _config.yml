@@ -1,33 +1,30 @@
 # Jekyll configuration
 
-name: Blog Name
-description: Software Developer
+name: "0x77"
+description: low-leve software and malware analysis
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: http://streetturtle.github.io
+# url: http://walidbarakat.github.io
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
-baseurl: '/jekyll-clean-dark'
+baseurl: '/'
 
-author: Pavel Makhov
-copyright: 2015-2018
+#author: Pavel Makhov
+#copyright: 2015-2018
 
 share:
-  facebook: true
+  facebook: false
   twitter: true
-  gplus: true
+  gplus: false
   linkedin: true
-  pinterest: true
+  pinterest: false
   email: true
 
 social:
-  github: streetturtle
-  stackoverflow: ''
-  linkedin:
-  instagram: ''
-  lastfm: ''
-  rss: feed.xml
+  github: walidbarakat
+  linkedin: walid-barakat
+  twitter: W1l5d_
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:

@@ -1,0 +1,11 @@
+{
+	"name": "Profile",
+	"icons": [
+		{
+			"src": "\/images\/profile",
+			"sizes": "36x36",
+			"type": "image\/jpg",
+			"density": 0.75
+		}
+	]
+}
